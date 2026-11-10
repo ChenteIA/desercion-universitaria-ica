@@ -1,0 +1,40 @@
+{
+  "alfa": 0.05,
+  "n_nacional": 3523,
+  "n_ica": 190,
+  "pruebas": [
+    {
+      "variable": "Edad",
+      "gl": 4,
+      "w_cohen": 0.267,
+      "potencia_nacional": 1.0,
+      "potencia_ica": 0.853
+    },
+    {
+      "variable": "Pobreza del hogar",
+      "gl": 2,
+      "w_cohen": 0.114,
+      "potencia_nacional": 1.0,
+      "potencia_ica": 0.27
+    },
+    {
+      "variable": "Miembros del hogar",
+      "gl": 4,
+      "w_cohen": 0.078,
+      "potencia_nacional": 0.973,
+      "potencia_ica": 0.114
+    },
+    {
+      "variable": "NBI2 (servicios higienicos)",
+      "gl": 1,
+      "w_cohen": 0.038,
+      "potencia_nacional": 0.626,
+      "potencia_ica": 0.083
+    }
+  ],
+  "w_minimo_detectable_ica_potencia_080": {
+    "1": 0.203,
+    "2": 0.225,
+    "4": 0.251
+  }
+}

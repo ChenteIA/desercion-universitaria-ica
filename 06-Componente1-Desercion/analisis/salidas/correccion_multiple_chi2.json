@@ -1,0 +1,101 @@
+[
+  {
+    "variable": "Edad",
+    "chi2": 250.8,
+    "gl": 4,
+    "p_exacto": 4.377428319984356e-53,
+    "p_bonferroni": 4.815171151982792e-52,
+    "p_fdr": 4.815171151982792e-52,
+    "significativa_fdr_0.05": true
+  },
+  {
+    "variable": "Pobreza del hogar",
+    "chi2": 45.6,
+    "gl": 2,
+    "p_exacto": 1.2533888086068373e-10,
+    "p_bonferroni": 1.378727689467521e-09,
+    "p_fdr": 6.893638447337605e-10,
+    "significativa_fdr_0.05": true
+  },
+  {
+    "variable": "Miembros del hogar",
+    "chi2": 21.2,
+    "gl": 4,
+    "p_exacto": 0.0002890257128854372,
+    "p_bonferroni": 0.0031792828417398092,
+    "p_fdr": 0.001059760947246603,
+    "significativa_fdr_0.05": true
+  },
+  {
+    "variable": "NBI2 (servicios higienicos)",
+    "chi2": 5.2,
+    "gl": 1,
+    "p_exacto": 0.02258688816417965,
+    "p_bonferroni": 0.24845576980597614,
+    "p_fdr": 0.062113942451494035,
+    "significativa_fdr_0.05": false
+  },
+  {
+    "variable": "NBI3 (hacinamiento)",
+    "chi2": 3.8,
+    "gl": 1,
+    "p_exacto": 0.051252582857369534,
+    "p_bonferroni": 0.5637784114310649,
+    "p_fdr": 0.10592921372659476,
+    "significativa_fdr_0.05": false
+  },
+  {
+    "variable": "NBI1 (vivienda inadecuada)",
+    "chi2": 3.6,
+    "gl": 1,
+    "p_exacto": 0.05777957112359715,
+    "p_bonferroni": 0.6355752823595686,
+    "p_fdr": 0.10592921372659476,
+    "significativa_fdr_0.05": false
+  },
+  {
+    "variable": "Tipo de centro de estudios",
+    "chi2": 3.1,
+    "gl": 1,
+    "p_exacto": 0.07829229414640966,
+    "p_bonferroni": 0.8612152356105063,
+    "p_fdr": 0.12303074794435805,
+    "significativa_fdr_0.05": false
+  },
+  {
+    "variable": "Area de residencia",
+    "chi2": 0.8,
+    "gl": 1,
+    "p_exacto": 0.37109336952269756,
+    "p_bonferroni": 1.0,
+    "p_fdr": 0.5102533830937092,
+    "significativa_fdr_0.05": false
+  },
+  {
+    "variable": "Sexo",
+    "chi2": 0.2,
+    "gl": 1,
+    "p_exacto": 0.6547208460185768,
+    "p_bonferroni": 1.0,
+    "p_fdr": 0.8002143673560383,
+    "significativa_fdr_0.05": false
+  },
+  {
+    "variable": "NBI5 (inasistencia escolar)",
+    "chi2": 0.0,
+    "gl": 1,
+    "p_exacto": 1.0,
+    "p_bonferroni": 1.0,
+    "p_fdr": 1.0,
+    "significativa_fdr_0.05": false
+  },
+  {
+    "variable": "NBI4 (dependencia economica)",
+    "chi2": 0.0,
+    "gl": 1,
+    "p_exacto": 1.0,
+    "p_bonferroni": 1.0,
+    "p_fdr": 1.0,
+    "significativa_fdr_0.05": false
+  }
+]

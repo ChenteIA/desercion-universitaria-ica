@@ -1,0 +1,93 @@
+{
+  "hombres": {
+    "n": 92,
+    "top10": [
+      {
+        "variable": "num__P208A",
+        "shap_medio_abs": 0.03529062110812117
+      },
+      {
+        "variable": "cat__P209_6",
+        "shap_medio_abs": 0.021916121235069193
+      },
+      {
+        "variable": "num__ingreso_percapita",
+        "shap_medio_abs": 0.010395943558087055
+      },
+      {
+        "variable": "cat__P209_1",
+        "shap_medio_abs": 0.009128330757245442
+      },
+      {
+        "variable": "cat__P203_3",
+        "shap_medio_abs": 0.008671837027676585
+      },
+      {
+        "variable": "num__P114B1",
+        "shap_medio_abs": 0.007748162251680851
+      },
+      {
+        "variable": "num__POBREZA",
+        "shap_medio_abs": 0.00653733170351744
+      },
+      {
+        "variable": "num__educacion_jefe_hogar",
+        "shap_medio_abs": 0.0048871327050780886
+      },
+      {
+        "variable": "cat__P203_1",
+        "shap_medio_abs": 0.004831011496985212
+      },
+      {
+        "variable": "cat__P209_5",
+        "shap_medio_abs": 0.004807986114540668
+      }
+    ]
+  },
+  "mujeres": {
+    "n": 98,
+    "top10": [
+      {
+        "variable": "num__P208A",
+        "shap_medio_abs": 0.034042357533349575
+      },
+      {
+        "variable": "cat__P209_6",
+        "shap_medio_abs": 0.02458632404141653
+      },
+      {
+        "variable": "num__ingreso_percapita",
+        "shap_medio_abs": 0.012147885674364025
+      },
+      {
+        "variable": "num__P114B1",
+        "shap_medio_abs": 0.01011182788905243
+      },
+      {
+        "variable": "cat__P209_1",
+        "shap_medio_abs": 0.009878446513957416
+      },
+      {
+        "variable": "cat__P203_3",
+        "shap_medio_abs": 0.009002709931791019
+      },
+      {
+        "variable": "num__POBREZA",
+        "shap_medio_abs": 0.006813016397789106
+      },
+      {
+        "variable": "num__educacion_jefe_hogar",
+        "shap_medio_abs": 0.006245071748100714
+      },
+      {
+        "variable": "cat__P209_5",
+        "shap_medio_abs": 0.005130648276904736
+      },
+      {
+        "variable": "cat__P203_1",
+        "shap_medio_abs": 0.00433412163247247
+      }
+    ]
+  },
+  "correlacion_spearman_rankings": 0.9990402644188566
+}

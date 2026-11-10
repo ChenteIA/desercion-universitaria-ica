@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Microdatos de la ENAHO y bases consolidadas (registros individuales; no se redistribuyen)
+05-Datos/.crudos-INEI/
+05-Datos/procesados/*.csv
+
+# Modelos entrenados y particiones (se regeneran con src/entrenar.py)
+06-Componente1-Desercion/modelos/
+
+# Tablas y figuras generadas
+08-Resultados/

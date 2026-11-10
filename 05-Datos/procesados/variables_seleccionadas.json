@@ -1,0 +1,123 @@
+{
+  "candidatas_iniciales": [
+    "P207",
+    "P208A",
+    "P203",
+    "P209",
+    "P301D",
+    "P300A",
+    "NBI1",
+    "NBI2",
+    "NBI3",
+    "NBI4",
+    "NBI5",
+    "P114B1",
+    "educacion_jefe_hogar",
+    "ocupacion_jefe_hogar",
+    "categoria_ocupacional_jefe",
+    "POBREZA",
+    "MIEPERHO",
+    "ingreso_percapita",
+    "ESTRSOCIAL"
+  ],
+  "descartadas_por_completitud": [],
+  "seleccionadas_finales": [
+    "ingreso_percapita",
+    "P208A",
+    "ocupacion_jefe_hogar",
+    "educacion_jefe_hogar",
+    "MIEPERHO",
+    "ESTRSOCIAL",
+    "categoria_ocupacional_jefe",
+    "P203",
+    "P209",
+    "P207",
+    "P114B1",
+    "P301D",
+    "POBREZA",
+    "P300A",
+    "NBI2",
+    "NBI1",
+    "NBI3",
+    "NBI4",
+    "NBI5"
+  ],
+  "ranking_importancia": [
+    {
+      "variable": "ingreso_percapita",
+      "importancia": 0.19985434938677638
+    },
+    {
+      "variable": "P208A",
+      "importancia": 0.15378538453499374
+    },
+    {
+      "variable": "ocupacion_jefe_hogar",
+      "importancia": 0.13210932875368336
+    },
+    {
+      "variable": "educacion_jefe_hogar",
+      "importancia": 0.09150065979267738
+    },
+    {
+      "variable": "MIEPERHO",
+      "importancia": 0.08685369781048975
+    },
+    {
+      "variable": "ESTRSOCIAL",
+      "importancia": 0.07221718271764825
+    },
+    {
+      "variable": "categoria_ocupacional_jefe",
+      "importancia": 0.05251023739475661
+    },
+    {
+      "variable": "P203",
+      "importancia": 0.03875019262529644
+    },
+    {
+      "variable": "P209",
+      "importancia": 0.03629075107189134
+    },
+    {
+      "variable": "P207",
+      "importancia": 0.03032878305569788
+    },
+    {
+      "variable": "P114B1",
+      "importancia": 0.028801232695081603
+    },
+    {
+      "variable": "P301D",
+      "importancia": 0.026951281965735457
+    },
+    {
+      "variable": "POBREZA",
+      "importancia": 0.015921993191103313
+    },
+    {
+      "variable": "P300A",
+      "importancia": 0.011595284763399081
+    },
+    {
+      "variable": "NBI2",
+      "importancia": 0.007272649320585881
+    },
+    {
+      "variable": "NBI1",
+      "importancia": 0.006716137695611556
+    },
+    {
+      "variable": "NBI3",
+      "importancia": 0.006202317855208845
+    },
+    {
+      "variable": "NBI4",
+      "importancia": 0.001657470172387792
+    },
+    {
+      "variable": "NBI5",
+      "importancia": 0.0006810651969753716
+    }
+  ]
+}

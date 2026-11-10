@@ -1,0 +1,80 @@
+{
+  "n_entrenamiento_oof": 2666,
+  "brier_oof_original": 0.22157210239931813,
+  "platt": {
+    "pendiente": 7.6456645707443975,
+    "intercepto": -4.822479849561996,
+    "umbral_calibrado_equivalente": 0.13517440881749826
+  },
+  "umbral_original": 0.388,
+  "prueba_nacional": {
+    "n": 667,
+    "prevalencia": 0.25337331334332835,
+    "brier_referencia_prevalencia": 0.18917527742875184,
+    "original": {
+      "brier": 0.21906386738503666,
+      "ic95_brier": [
+        0.21287142568522546,
+        0.22571999239184737
+      ],
+      "proba_media": 0.47081812351136093,
+      "auc_roc": 0.6697797105582091,
+      "marcados_umbral_0.5": 176
+    },
+    "platt": {
+      "brier": 0.16731964203344138,
+      "ic95_brier": [
+        0.15062353604939552,
+        0.18515160248670592
+      ],
+      "proba_media": 0.24384338316169898,
+      "auc_roc": 0.6697797105582091,
+      "marcados_umbral_0.5": 45
+    },
+    "isotonica": {
+      "brier": 0.1683637225112705,
+      "ic95_brier": [
+        0.1514438373297014,
+        0.18694677255434353
+      ],
+      "proba_media": 0.24148946689540887,
+      "auc_roc": 0.6723283667213231,
+      "marcados_umbral_0.5": 28
+    }
+  },
+  "ica": {
+    "n": 190,
+    "prevalencia": 0.22105263157894736,
+    "brier_referencia_prevalencia": 0.17218836565096957,
+    "original": {
+      "brier": 0.2159802016079677,
+      "ic95_brier": [
+        0.20330027489300165,
+        0.22874649054289675
+      ],
+      "proba_media": 0.4780742872618232,
+      "auc_roc": 0.7157335907335908,
+      "marcados_umbral_0.5": 45
+    },
+    "platt": {
+      "brier": 0.1477514499893394,
+      "ic95_brier": [
+        0.11839140140120089,
+        0.1782140992177833
+      ],
+      "proba_media": 0.25741282348715677,
+      "auc_roc": 0.7157335907335908,
+      "marcados_umbral_0.5": 22
+    },
+    "isotonica": {
+      "brier": 0.1475699174828224,
+      "ic95_brier": [
+        0.11659477463365879,
+        0.17849829151183608
+      ],
+      "proba_media": 0.253023538454524,
+      "auc_roc": 0.7161357786357787,
+      "marcados_umbral_0.5": 13
+    }
+  }
+}

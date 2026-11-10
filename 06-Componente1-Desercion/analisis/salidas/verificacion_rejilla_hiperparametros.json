@@ -1,0 +1,30 @@
+{
+  "rf_original_exhaustiva": {
+    "mejor_score_cv": 0.6837514645689111,
+    "mejores_params": {
+      "modelo__max_depth": 10,
+      "modelo__min_samples_leaf": 10,
+      "modelo__n_estimators": 500
+    },
+    "n_combinaciones": 27,
+    "segundos": 13.399848699569702
+  },
+  "rf_extendida_exhaustiva": {
+    "mejor_score_cv": 0.6871187827124515,
+    "mejores_params": {
+      "modelo__max_depth": 10,
+      "modelo__min_samples_leaf": 20,
+      "modelo__n_estimators": 200
+    },
+    "n_combinaciones": 100,
+    "segundos": 64.20847368240356
+  },
+  "lr_extendida": {
+    "mejor_score_cv": 0.6720253648154395,
+    "mejores_params": {
+      "modelo__C": 0.003
+    },
+    "n_combinaciones": 6,
+    "segundos": 0.3440883159637451
+  }
+}

@@ -1,0 +1,1220 @@
+{
+  "n": 190,
+  "ranking": [
+    {
+      "variable": "num__P208A",
+      "shap_medio_abs": 0.03464677989587056,
+      "direccion_spearman": 0.7049038826139029
+    },
+    {
+      "variable": "cat__P209_6",
+      "shap_medio_abs": 0.023293383735185188,
+      "direccion_spearman": -0.6139734121159811
+    },
+    {
+      "variable": "num__ingreso_percapita",
+      "shap_medio_abs": 0.011299576860166756,
+      "direccion_spearman": -0.6798865914191412
+    },
+    {
+      "variable": "cat__P209_1",
+      "shap_medio_abs": 0.009515232568602143,
+      "direccion_spearman": 0.4213215428070447
+    },
+    {
+      "variable": "num__P114B1",
+      "shap_medio_abs": 0.008967316106746193,
+      "direccion_spearman": -0.8329717490285196
+    },
+    {
+      "variable": "cat__P203_3",
+      "shap_medio_abs": 0.008842497788746137,
+      "direccion_spearman": -0.6787731464143185
+    },
+    {
+      "variable": "num__POBREZA",
+      "shap_medio_abs": 0.006679526966878616,
+      "direccion_spearman": -0.1767693496484944
+    },
+    {
+      "variable": "num__educacion_jefe_hogar",
+      "shap_medio_abs": 0.005587543369373969,
+      "direccion_spearman": -0.5803682548758129
+    },
+    {
+      "variable": "cat__P209_5",
+      "shap_medio_abs": 0.004974411861444239,
+      "direccion_spearman": 0.40451618217793567
+    },
+    {
+      "variable": "cat__P203_1",
+      "shap_medio_abs": 0.004574720935289167,
+      "direccion_spearman": 0.3679371023611803
+    },
+    {
+      "variable": "num__MIEPERHO",
+      "shap_medio_abs": 0.004202338891990433,
+      "direccion_spearman": -0.01160333621706448
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_3",
+      "shap_medio_abs": 0.0036641468463187335,
+      "direccion_spearman": -0.6858981304285319
+    },
+    {
+      "variable": "cat__ESTRSOCIAL_2",
+      "shap_medio_abs": 0.0029011351998911635,
+      "direccion_spearman": -0.5649827591691606
+    },
+    {
+      "variable": "cat__ESTRSOCIAL_1",
+      "shap_medio_abs": 0.0026519067021470496,
+      "direccion_spearman": -0.4372918174771975
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_ ",
+      "shap_medio_abs": 0.002193376914103037,
+      "direccion_spearman": 0.5894818488356119
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_572",
+      "shap_medio_abs": 0.002031865075166257,
+      "direccion_spearman": 0.4372918174771975
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_2",
+      "shap_medio_abs": 0.0019117938667065587,
+      "direccion_spearman": 0.8203057546098491
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_ ",
+      "shap_medio_abs": 0.0017606075384026378,
+      "direccion_spearman": 0.5921134642321996
+    },
+    {
+      "variable": "cat__ESTRSOCIAL_6",
+      "shap_medio_abs": 0.001736898804053995,
+      "direccion_spearman": 0.4372918174771975
+    },
+    {
+      "variable": "cat__P301D_2",
+      "shap_medio_abs": 0.00170529967144615,
+      "direccion_spearman": 0.6419447500272062
+    },
+    {
+      "variable": "cat__P301D_1",
+      "shap_medio_abs": 0.0016302755973332669,
+      "direccion_spearman": -0.6337161147419104
+    },
+    {
+      "variable": "cat__P203_2",
+      "shap_medio_abs": 0.0016233832076125866,
+      "direccion_spearman": 0.1767693496484944
+    },
+    {
+      "variable": "cat__P207_2",
+      "shap_medio_abs": 0.0014106589620474712,
+      "direccion_spearman": -0.8285464976477744
+    },
+    {
+      "variable": "cat__P207_1",
+      "shap_medio_abs": 0.0012628137445258984,
+      "direccion_spearman": 0.7523163795559629
+    },
+    {
+      "variable": "cat__ESTRSOCIAL_4",
+      "shap_medio_abs": 0.001239307404733703,
+      "direccion_spearman": 0.6724129401376263
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_522",
+      "shap_medio_abs": 0.0009927915854799256,
+      "direccion_spearman": 0.40451618217793567
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_574",
+      "shap_medio_abs": 0.000959175083248026,
+      "direccion_spearman": -0.21592079584256696
+    },
+    {
+      "variable": "cat__P203_5",
+      "shap_medio_abs": 0.0009571819986337614,
+      "direccion_spearman": -0.46706539933935903
+    },
+    {
+      "variable": "cat__ESTRSOCIAL_5",
+      "shap_medio_abs": 0.0009321705425813557,
+      "direccion_spearman": 0.7186263114251253
+    },
+    {
+      "variable": "cat__P203_4",
+      "shap_medio_abs": 0.0009100903743821334,
+      "direccion_spearman": 0.21592079584256696
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_242",
+      "shap_medio_abs": 0.00071579273052976,
+      "direccion_spearman": -0.21592079584256696
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_885",
+      "shap_medio_abs": 0.0007146149615457234,
+      "direccion_spearman": -0.6482112651455649
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_4",
+      "shap_medio_abs": 0.0006136936117882548,
+      "direccion_spearman": 0.6425221313659256
+    },
+    {
+      "variable": "cat__ESTRSOCIAL_3",
+      "shap_medio_abs": 0.0006061337273626312,
+      "direccion_spearman": -0.5567491892525925
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_971",
+      "shap_medio_abs": 0.0005655409441615308,
+      "direccion_spearman": -0.4213215428070447
+    },
+    {
+      "variable": "num__NBI2",
+      "shap_medio_abs": 0.0005393142311691823,
+      "direccion_spearman": 0.1767693496484944
+    },
+    {
+      "variable": "cat__P209_2",
+      "shap_medio_abs": 0.0004932919202986093,
+      "direccion_spearman": 0.277257886291227
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_1",
+      "shap_medio_abs": 0.0004403189192502731,
+      "direccion_spearman": -0.3590244035696365
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_364",
+      "shap_medio_abs": 0.000360603138901478,
+      "direccion_spearman": -0.2486563242492133
+    },
+    {
+      "variable": "num__NBI3",
+      "shap_medio_abs": 0.00033877157075625907,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "num__NBI1",
+      "shap_medio_abs": 0.00033571924295317955,
+      "direccion_spearman": 0.21592079584256696
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_782",
+      "shap_medio_abs": 0.00031191514554511953,
+      "direccion_spearman": 0.1767693496484944
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_952",
+      "shap_medio_abs": 0.0003037831001861452,
+      "direccion_spearman": -0.12532679794330706
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_411",
+      "shap_medio_abs": 0.0002830822420234288,
+      "direccion_spearman": -0.1767693496484944
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_615",
+      "shap_medio_abs": 0.0002583603510222676,
+      "direccion_spearman": -0.1767693496484944
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_942",
+      "shap_medio_abs": 0.00025253638294645247,
+      "direccion_spearman": 0.28752850295014276
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_945",
+      "shap_medio_abs": 0.00021731309532463974,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_335",
+      "shap_medio_abs": 0.00019725508248835078,
+      "direccion_spearman": 0.3028988178285526
+    },
+    {
+      "variable": "cat__P300A_4",
+      "shap_medio_abs": 0.00019177032454662296,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_613",
+      "shap_medio_abs": 0.00018974978902955333,
+      "direccion_spearman": 0.12532679794330706
+    },
+    {
+      "variable": "cat__P203_7",
+      "shap_medio_abs": 0.00016177943377016713,
+      "direccion_spearman": -0.1767693496484944
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_571",
+      "shap_medio_abs": 0.0001560349054346916,
+      "direccion_spearman": -0.1767693496484944
+    },
+    {
+      "variable": "cat__P203_11",
+      "shap_medio_abs": 0.00013468628342249721,
+      "direccion_spearman": -0.2486563242492133
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_941",
+      "shap_medio_abs": 0.00011255587065915435,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_983",
+      "shap_medio_abs": 9.537000865921368e-05,
+      "direccion_spearman": -0.2019325452190351
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_352",
+      "shap_medio_abs": 8.961899712715012e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_621",
+      "shap_medio_abs": 8.278647489059103e-05,
+      "direccion_spearman": 0.12532679794330706
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_244",
+      "shap_medio_abs": 7.741817501726881e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P203_10",
+      "shap_medio_abs": 7.707351535522605e-05,
+      "direccion_spearman": 0.12532679794330706
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_781",
+      "shap_medio_abs": 7.323671552516694e-05,
+      "direccion_spearman": -0.2159211736131058
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_243",
+      "shap_medio_abs": 6.991967128903642e-05,
+      "direccion_spearman": -0.12432816212460665
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_778",
+      "shap_medio_abs": 6.9573960332089e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_423",
+      "shap_medio_abs": 6.917451591467681e-05,
+      "direccion_spearman": -0.2772584926474225
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_6",
+      "shap_medio_abs": 6.756223362208288e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_919",
+      "shap_medio_abs": 6.493192723188806e-05,
+      "direccion_spearman": 0.17676958160232867
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_5",
+      "shap_medio_abs": 6.10723119371422e-05,
+      "direccion_spearman": -0.2486563242492133
+    },
+    {
+      "variable": "cat__P300A_1",
+      "shap_medio_abs": 6.097324600599484e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_861",
+      "shap_medio_abs": 3.969961419245704e-05,
+      "direccion_spearman": 0.1767693496484944
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_912",
+      "shap_medio_abs": 2.9756254060478917e-05,
+      "direccion_spearman": 0.12532679794330706
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_785",
+      "shap_medio_abs": 2.8942440030089648e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_2",
+      "shap_medio_abs": 2.579479373900428e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_241",
+      "shap_medio_abs": 1.8452569893398316e-05,
+      "direccion_spearman": -0.12532740093627237
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_136",
+      "shap_medio_abs": 1.2743794862024805e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_252",
+      "shap_medio_abs": 1.0732928362090603e-05,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_766",
+      "shap_medio_abs": 1.0154733000338523e-05,
+      "direccion_spearman": 0.12534642709244165
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_254",
+      "shap_medio_abs": 9.024345272175053e-06,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_612",
+      "shap_medio_abs": 8.417290440739214e-06,
+      "direccion_spearman": -0.12625363117903313
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_632",
+      "shap_medio_abs": 8.200981971790341e-06,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_251",
+      "shap_medio_abs": 6.573364806068025e-06,
+      "direccion_spearman": -0.12699522164624316
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_868",
+      "shap_medio_abs": 5.510047170403332e-06,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_247",
+      "shap_medio_abs": 3.5412660383729343e-06,
+      "direccion_spearman": -0.14570209497354367
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_922",
+      "shap_medio_abs": 2.9897696282251584e-06,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_783",
+      "shap_medio_abs": 1.8367685255773436e-06,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "num__NBI4",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "num__NBI5",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_111",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_112",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_12",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_122",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_123",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_13",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_142",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_217",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_218",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_219",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_221",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_225",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_227",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_229",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_23",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_234",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_235",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_236",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_237",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_238",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_239",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_245",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_246",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_253",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_255",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_256",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_258",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_262",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_266",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_268",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_269",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_284",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_311",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_312",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_313",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_314",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_317",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_318",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_319",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_321",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_322",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_342",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_343",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_347",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_348",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_349",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_351",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_354",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_355",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_356",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_366",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_372",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_373",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_375",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_377",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_381",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_382",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_391",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_394",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_395",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_396",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_412",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_413",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_418",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_419",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_421",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_436",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_442",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_451",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_453",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_454",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_455",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_456",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_461",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_462",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_512",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_523",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_531",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_541",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_562",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_563",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_564",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_573",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_611",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_616",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_617",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_623",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_631",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_711",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_718",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_719",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_737",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_742",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_745",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_746",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_747",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_763",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_764",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_767",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_768",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_769",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_771",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_772",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_773",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_775",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_776",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_777",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_791",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_792",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_813",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_821",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_831",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_832",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_842",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_843",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_844",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_851",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_852",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_864",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_866",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_867",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_872",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_873",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_875",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_876",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_877",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_881",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_911",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_914",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_915",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_916",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_917",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_918",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_923",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_926",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_927",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_931",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_944",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_951",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_961",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_972",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_973",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_981",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_982",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_984",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__ocupacion_jefe_hogar_987",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__categoria_ocupacional_jefe_7",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P203_8",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P209_3",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_3",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_6",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_7",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_10",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_11",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_12",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_13",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_14",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    },
+    {
+      "variable": "cat__P300A_15",
+      "shap_medio_abs": 0.0,
+      "direccion_spearman": null
+    }
+  ]
+}
