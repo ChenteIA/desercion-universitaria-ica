@@ -75,6 +75,10 @@ Todos los procedimientos aleatorios usan la semilla 42.
 
 Los microdatos pertenecen al Instituto Nacional de Estadística e Informática (INEI) y son de acceso público y gratuito. Este repositorio no los incluye, ni incluye los modelos entrenados ni registros individuales de personas encuestadas; solo contiene código y resultados agregados.
 
+## Licencia
+
+El código se distribuye bajo la licencia MIT (véase [`LICENSE`](LICENSE)). La licencia cubre únicamente el código de este repositorio; los microdatos de la ENAHO se rigen por las condiciones de uso del INEI.
+
 ## Advertencia de uso
 
 El puntaje que produce el modelo es un instrumento de priorización del apoyo institucional. No debe emplearse para sancionar, estigmatizar ni restringir servicios a ninguna persona. El modelo identifica perfiles asociados a una deserción ya ocurrida, con datos transversales; su uso como sistema de alerta temprana requeriría una validación previa con datos longitudinales.
